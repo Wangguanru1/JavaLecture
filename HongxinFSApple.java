@@ -26,6 +26,5 @@ class test extends Employee{
 		for (k=0;k<=12;k=k+2){
 			sum=sum+k;
 		}
-		System.out.println(q%2-5);
 	}
 }

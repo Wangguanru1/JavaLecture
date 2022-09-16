@@ -27,3 +27,7 @@
    ```
 
    *一个方法只能有一个varargs声明，并且它必须在方法签名的最后*
+
+5. ### Arraylist
+
+   [菜鸟教程]([Java ArrayList | 菜鸟教程 (runoob.com)](https://www.runoob.com/java/java-arraylist.html))

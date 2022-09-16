@@ -30,4 +30,4 @@
 
 5. ### Arraylist
 
-   [菜鸟教程]([Java ArrayList | 菜鸟教程 (runoob.com)](https://www.runoob.com/java/java-arraylist.html))
+   [菜鸟教程](https://www.runoob.com/java/java-arraylist.html)

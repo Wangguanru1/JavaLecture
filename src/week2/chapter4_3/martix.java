@@ -1,4 +1,4 @@
-package week2.martix;
+package week2.chapter4_3;
 
 public class martix {
     private static int[][] add(int[][] add1,int[][]add2){

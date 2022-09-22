@@ -1,4 +1,4 @@
-package week1.hellojava;
+package week1.chapter;
 
 public class hellojava {
     public static void main(String args[]){

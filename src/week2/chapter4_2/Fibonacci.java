@@ -1,4 +1,4 @@
-package week2.Fibonacci;
+package week2.chapter4_2;
 
 public class Fibonacci {
 

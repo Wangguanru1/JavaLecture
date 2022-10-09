@@ -9,7 +9,8 @@ public class Fibonacci {
             for (int j = 0; j <= triangle[i].length - 1; j++) {
                 if (i == 0 || j == 0 || j == triangle[i].length - 1) {
                     triangle[i][j] = 1;
-                } else {
+                }
+                else {
                     triangle[i][j] = triangle[i - 1][j] + triangle[i - 1][j - 1];
                 }
                 System.out.print(triangle[i][j] + "\t");
